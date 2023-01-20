@@ -9,8 +9,7 @@ Repositório criado para documentar todo o meu passo a passo, projetos e codigos
 
 
 <h2> 🎯 Objetivo </h2>
-Explorar o mundo Pokémon através do consumo de uma API REST para a criação de uma Pokédex incrível! 
-Explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web aprendidos.
+Criar uma aplicação de blog funcional, construir componentes inteligentes e organizar o projeto Angular utilizando as ferramentas que o próprio framework Oferece.
 
 
 <h2 dir="auto"> 🚦 Guia </h2>
