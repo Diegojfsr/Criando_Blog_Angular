@@ -15,23 +15,23 @@ Explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web apren
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Preparando seu ambiente de produção e versionando no Github - <a href=" https:// "> Acessar </a></li>
-<li> Enxergando os componentes em um Layout - <a href=" https:// "> Acessar </a></li>
-<li> Criando a base dos components - <a href=" https:// "> Acessar </a></li>
-<li> PMenu Title - <a href=" https:// "> Acessar </a></li>
-<li> Criando a estrutura do big card - <a href=" https:// "> Acessar </a></li>
-<li> Concentrando seu Big Card - <a href=" https:// "> Acessar </a></li>
-<li> Desenhando Small-Cardsb - <a href=" https:// "> Acessar </a></li>
-<li> Criando o Componente do Menu - <a href=" https:// "> Acessar </a></li>
-<li> Commitando seu projeto e editando ele online - <a href=" https:// "> Acessar </a></li>
-<li> Agregando múltiplos CSS para um component - <a href=" https:// "> Acessar </a></li>
-<li> Commitando seu projeto e editando ele online - <a href=" https:// "> Acessar </a></li>
-<li> Desacoplando os componentes da parte visual - <a href=" https:// "> Acessar </a></li>
-<li> Criando outras páginas - <a href=" https:// "> Acessar </a></li>
-<li> Pegando os dados dinamicamente - <a href=" https:// "> Acessar </a></li>
-<li> Deixando a content Page Dinâmica - <a href=" https:// "> Acessar </a></li>
-<li> Lembre de salvar no Git - <a href=" https:// "> Acessar </a></li>
-<li> Entendendo o Desafio de Projeto - <a href=" https:// "> Acessar </a></li>
+<li> Preparando seu ambiente de produção e versionando no Github - <a href="https:// "> Acessar </a></li>
+<li> Enxergando os componentes em um Layout - <a href="https:// "> Acessar </a></li>
+<li> Criando a base dos components - <a href="https:// "> Acessar </a></li>
+<li> PMenu Title - <a href="https:// "> Acessar </a></li>
+<li> Criando a estrutura do big card - <a href="https:// "> Acessar </a></li>
+<li> Concentrando seu Big Card - <a href="https:// "> Acessar </a></li>
+<li> Desenhando Small-Cardsb - <a href="https:// "> Acessar </a></li>
+<li> Criando o Componente do Menu - <a href="https:// "> Acessar </a></li>
+<li> Commitando seu projeto e editando ele online - <a href="https:// "> Acessar </a></li>
+<li> Agregando múltiplos CSS para um component - <a href="https:// "> Acessar </a></li>
+<li> Commitando seu projeto e editando ele online - <a href="https:// "> Acessar </a></li>
+<li> Desacoplando os componentes da parte visual - <a href="https:// "> Acessar </a></li>
+<li> Criando outras páginas - <a href="https:// "> Acessar </a></li>
+<li> Pegando os dados dinamicamente - <a href="https:// "> Acessar </a></li>
+<li> Deixando a content Page Dinâmica - <a href="https:// "> Acessar </a></li>
+<li> Lembre de salvar no Git - <a href="https:// "> Acessar </a></li>
+<li> Entendendo o Desafio de Projeto - <a href="https:// "> Acessar </a></li>
 
 </ul>
 
