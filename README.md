@@ -74,8 +74,8 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 3 | Angular </strong>. Durante o 
   <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
-  Conteudos ministrados pelo Especialista: Renan Johannsen ( Software Engineer Lead, S3 BANK) <br>
-  Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href=" https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
+  Conteudos ministrados pelo Especialista: Felipe Aguiar (  Tech Lead of Education, DIO ) <br>
+  Programa ofertado  pela <a href=" https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
  </em> 
  
 </p>
